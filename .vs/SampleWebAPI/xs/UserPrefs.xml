@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{3835D44C-6351-44A8-87EE-0C57085D80A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleWebAPI/Data/ApplicationDbContext.cs">
+    <Files>
+      <File FileName="SampleWebAPI/Program.cs" Line="36" Column="82" IsPinned="True" />
+      <File FileName="SampleWebAPI/Startup.cs" Line="48" Column="50" />
+      <File FileName="SampleWebAPI/Models/User.cs" Line="12" Column="1" />
+      <File FileName="SampleWebAPI/Models/UserRole.cs" Line="8" Column="6" />
+      <File FileName="SampleWebAPI/Data/IUser.cs" Line="16" Column="37" />
+      <File FileName="SampleWebAPI/Data/ICrud.cs" Line="1" Column="1" />
+      <File FileName="SampleWebAPI/Data/UserDAL.cs" Line="43" Column="10" />
+      <File FileName="SampleWebAPI/Data/StudentDAL.cs" Line="1" Column="1" />
+      <File FileName="SampleWebAPI/Controllers/UsersController.cs" Line="45" Column="9" />
+      <File FileName="SampleWebAPI/Dtos/CreateUserDto.cs" Line="6" Column="45" />
+      <File FileName="SampleWebAPI/Dtos/StudentDto.cs" Line="1" Column="1" />
+      <File FileName="SampleWebAPI/Dtos/UserDto.cs" Line="6" Column="45" />
+      <File FileName="SampleWebAPI/Data/ApplicationDbContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleWebAPI" expanded="True">
+            <Node name="SampleWebAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="ApplicationDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Dtos" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleWebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
